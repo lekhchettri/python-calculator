@@ -19,3 +19,8 @@ This is my first ever web-based project, a simple calculator built with Flask. T
 - Python 3.x
 - Virtual environment tool (optional but recommended)
 
+### License
+
+- This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
