@@ -5,9 +5,7 @@ This is my first ever web-based project, a simple calculator built with Flask. T
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Prerequisites](#prerequisites)
 - [License](#license)
 
 ## Features
@@ -16,9 +14,10 @@ This is my first ever web-based project, a simple calculator built with Flask. T
 - Handles basic arithmetic operations
 - Error handling for invalid inputs
 
-## Installation
-
 ### Prerequisites
 
 - Python 3.x
 - Virtual environment tool (optional but recommended)
+
+### License
+- 
