@@ -8,7 +8,7 @@ This is my first ever web-based project, a simple calculator built with Flask. T
 - [Prerequisites](#prerequisites)
 - [License](#license)
 
-## Features
+### Features
 
 - Evaluate mathematical expressions
 - Handles basic arithmetic operations
